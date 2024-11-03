@@ -6,10 +6,6 @@
 
 ###
 
-<p align="center">Deixando Minha Passagem em Códigos...</p>
-
-###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=uwjota&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=12&theme=radical&hide_border=true&order=2" height="200" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=uwjota&radius=16&theme=redical&area=true&order=5&hide_border=true&hide_title=true" height="200" alt="activity-graph graph"  />
