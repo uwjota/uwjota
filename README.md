@@ -2,10 +2,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/UWJOTA/UWJOTA/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <a href="https://www.instagram.com/uwjota/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
