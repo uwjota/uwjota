@@ -1,16 +1,17 @@
-## Hi there 👋
-
-<!--
-**uwjota/uwjota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center">👨‍💻| Desenvolvedor FULL-STACK</h1> ### <div align="center"> <img
+            src="https://github-readme-stats.vercel.app/api/top-langs?username=uwjota&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=12&theme=radical&hide_border=true&order=2"
+            height="200" alt="languages graph" /> <img
+            src="https://github-readme-activity-graph.vercel.app/graph?username=uwjota&radius=16&theme=redical&area=true&order=5&hide_border=true&hide_title=true"
+            height="200" alt="activity-graph graph" /> </div> ### <div align="center"> <img
+            src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo" /> <img width="20" /> <img
+            src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="css3 logo" /> <img width="20" /> <img
+            src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo" /> <img width="20" />
+        <img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="python logo" /> <img width="20" /> <img
+            src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo" /> <img
+            width="20" /> <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo" /> <img
+            width="20" /> <img src="https://cdn.simpleicons.org/wordpress/21759B" height="40" alt="wordpress logo" />
+        <img width="20" /> <img src="https://cdn.simpleicons.org/vercel/000000" height="40" alt="vercel logo" /> <img
+            width="20" /> <img src="https://cdn.simpleicons.org/figma/F24E1E" height="40" alt="figma logo" /> <img
+            width="20" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"
+            height="40" alt="canva logo" /> <img width="20" /> <img src="https://cdn.simpleicons.org/trello/0052CC"
+            height="40" alt="trello logo" /> </div>
