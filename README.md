@@ -1,6 +1,4 @@
-<h1 align="center">𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿</h1>
 
-###
 
 <p align="center">👋 Hi! My name is João. I'm currently studying Systems Analysis and Development at Unoeste and working mostly as a freelancer. However, I'm always open to new opportunities!<br><br>🌍 Languages:<br> 🇧🇷 Portuguese (Native) | 🇺🇸 English (Basic, improving) | 🇪🇸 Spanish (Basic)</p>
 
