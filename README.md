@@ -5,7 +5,7 @@
 ###
 
 <div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=60&section=header&reversal=false&text=About:&fontSize=30&fontColor=FFFFFF&fontAlign=10&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=undefined"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=60&section=header&reversal=false&text=About:&fontSize=30&fontColor=FFFFFF&fontAlign=12&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=undefined"  />
 </div>
 
 ###
@@ -23,7 +23,7 @@
 ###
 
 <div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=60&section=header&reversal=false&text=Skills:&fontSize=30&fontColor=FFFFFF&fontAlign=10&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=undefined"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=60&section=header&reversal=false&text=Skills:&fontSize=30&fontColor=FFFFFF&fontAlign=11&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=undefined"  />
 </div>
 
 ###
@@ -59,7 +59,7 @@
 ###
 
 <div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=60&section=header&reversal=false&text=Contact:&fontSize=30&fontColor=FFFFFF&fontAlign=10&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=undefined"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=60&section=header&reversal=false&text=Contact:&fontSize=30&fontColor=FFFFFF&fontAlign=13&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=undefined"  />
 </div>
 
 ###
@@ -76,7 +76,7 @@
 ###
 
 <div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=60&section=header&reversal=false&text=Statistics:&fontSize=30&fontColor=FFFFFF&fontAlign=10&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=undefined"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=60&section=header&reversal=false&text=Statistics:&fontSize=30&fontColor=FFFFFF&fontAlign=14&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=undefined"  />
 </div>
 
 ###
