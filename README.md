@@ -1,16 +1,16 @@
 <div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=100&section=header&reversal=false&text=%F0%9F%92%BB%20UWJOTA%20-%20Full%20Stack%20Developer&fontSize=45&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=undefined"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=100&section=header&reversal=false&text=%F0%9F%92%BB%20UWJOTA%20-%20Desenvolvedor%20Full%20Stack&fontSize=45&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=undefined"  />
 </div>
 
 ###
 
 <div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=60&section=header&reversal=false&text=About:&fontSize=30&fontColor=FFFFFF&fontAlign=12&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=undefined"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=60&section=header&reversal=false&text=Sobre:&fontSize=30&fontColor=FFFFFF&fontAlign=12&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=undefined"  />
 </div>
 
 ###
 
-<p data-importer="text" align="left">What I enjoy most about development is seeing an idea come to life and become something people can actually use. As a Full Stack Developer, I build web applications, systems, and automations, bringing together thoughtful user experiences and the logic that makes everything work.<br><br>AI is part of how I build. I use it to explore ideas, tackle challenges, and move projects forward with greater quality and speed, while carefully reviewing everything I deliver.<br><br>I’m studying Systems Analysis and Development at Unoeste, and much of my learning comes from getting hands-on and building things. Every project opens up new possibilities and gives me more reasons to keep creating.</p>
+<p data-importer="text" align="left">O que mais gosto no desenvolvimento é ver uma ideia ganhar vida e se transformar em algo que as pessoas realmente possam usar. Como Desenvolvedor Full Stack, desenvolvo aplicações web, sistemas e automações, unindo experiências de usuário bem pensadas à lógica que faz tudo funcionar.<br><br>A Inteligência Artificial também faz parte da minha forma de desenvolver. Utilizo IA para explorar ideias, enfrentar desafios e levar os projetos adiante com mais qualidade e agilidade, sempre revisando cuidadosamente tudo o que entrego.<br><br>Atualmente, estudo Análise e Desenvolvimento de Sistemas na Unoeste, e grande parte do meu aprendizado vem da prática e da criação de projetos. Cada projeto abre novas possibilidades e me dá ainda mais motivos para continuar criando.</p>
 
 ###
 
@@ -23,7 +23,7 @@
 ###
 
 <div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=60&section=header&reversal=false&text=Skills:&fontSize=30&fontColor=FFFFFF&fontAlign=11&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=undefined"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=60&section=header&reversal=false&text=Habilidades:&fontSize=30&fontColor=FFFFFF&fontAlign=17&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=undefined"  />
 </div>
 
 ###
@@ -59,7 +59,7 @@
 ###
 
 <div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=60&section=header&reversal=false&text=Contact:&fontSize=30&fontColor=FFFFFF&fontAlign=13&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=undefined"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=60&section=header&reversal=false&text=Contato:&fontSize=30&fontColor=FFFFFF&fontAlign=14&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=undefined"  />
 </div>
 
 ###
@@ -68,7 +68,7 @@
   <a href="mailto:uwjota@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/uwjota" target="_blank">
+  <a href="https://www.linkedin.com/in/joao-marcelo-venancio-ribeiro/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
 </div>
@@ -76,7 +76,7 @@
 ###
 
 <div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=60&section=header&reversal=false&text=Statistics:&fontSize=30&fontColor=FFFFFF&fontAlign=14&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=undefined"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=60&section=header&reversal=false&text=Estat%C3%ADsticas:&fontSize=30&fontColor=FFFFFF&fontAlign=17&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=undefined"  />
 </div>
 
 ###
