@@ -4,15 +4,6 @@
 
 ###
 
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=60&section=header&reversal=false&text=Sobre:&fontSize=30&fontColor=FFFFFF&fontAlign=12&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=undefined"  />
-</div>
-
-###
-
-<p data-importer="text" align="left">O que mais gosto no desenvolvimento é ver uma ideia ganhar vida e se transformar em algo que as pessoas realmente possam usar. Como Desenvolvedor Full Stack, desenvolvo aplicações web, sistemas e automações, unindo experiências de usuário bem pensadas à lógica que faz tudo funcionar.<br><br>A Inteligência Artificial também faz parte da minha forma de desenvolver. Utilizo IA para explorar ideias, enfrentar desafios e levar os projetos adiante com mais qualidade e agilidade, sempre revisando cuidadosamente tudo o que entrego.<br><br>Atualmente, estudo Análise e Desenvolvimento de Sistemas na Unoeste, e grande parte do meu aprendizado vem da prática e da criação de projetos. Cada projeto abre novas possibilidades e me dá ainda mais motivos para continuar criando.</p>
-
-###
 
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/uwjota/uwjota/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
